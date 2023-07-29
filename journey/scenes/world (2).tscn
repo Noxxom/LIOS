@@ -1,4 +1,4 @@
-[gd_scene load_steps=10 format=3 uid="uid://ddc7q1jjp50xi"]
+[gd_scene load_steps=10 format=3 uid="uid://b8vbpssrp787g"]
 
 [ext_resource type="Texture2D" uid="uid://cdotcw0wctmgl" path="res://art/tilesets/grass.png" id="1_kn6gg"]
 [ext_resource type="Texture2D" uid="uid://cpl8frghbevsf" path="res://art/tilesets/plains.png" id="2_6wbfk"]
@@ -184,7 +184,7 @@ layer_2/z_index = 0
 layer_2/tile_data = PackedInt32Array(2, 655376, 7, 262150, 655376, 7, 327700, 655376, 7, 25, 655376, 7, 327698, 16, 5, 589825, 16, 5, 589829, 524304, 6, 131077, 524304, 6, 6, 524304, 6, 9, 16, 5, 589848, 524304, 6, 131095, 524304, 6, 20, 393232, 7, 589836, 393232, 7, 720913, 524304, 6, 65549, 524304, 6, 65560, 16, 1, 196634, 16, 1, 196616, 16, 1, 720900, 16, 1, 720918, 393232, 7, 786452, 16, 1, 131083, 327696, 0, 196620, 16, 0, 655371, 327696, 0)
 
 [node name="Enemy" parent="." instance=ExtResource("5_i3b2a")]
-position = Vector2(621, 311)
+position = Vector2(140, 251)
 
 [node name="player" parent="." instance=ExtResource("4_4fp6j")]
-position = Vector2(90, 203)
+position = Vector2(26, 146)
